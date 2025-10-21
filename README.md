@@ -5,7 +5,7 @@ AtCoderのジャッジ結果（WA、TLE、MLE、RE、CE、AC）をハロウィ�
 ## 🚀 インストール方法
 
 1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja) などのスクリプトマネージャーをインストール
-2. [GreasyFork](https://greasyfork.org/ja/scripts/553267-halloween-atcoder/code) からインストール
+2. [GreasyFork](https://greasyfork.org/ja/scripts/553267-halloween-atcoder) からインストール
 
 ## 🎯 対象サイト
 
