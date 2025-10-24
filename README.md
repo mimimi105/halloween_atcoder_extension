@@ -2,6 +2,9 @@
 
 AtCoderのジャッジ結果（WA、TLE、MLE、RE、CE、AC）をハロウィン仕様で装飾する拡張機能です。
 
+[![Install from GreasyFork](https://img.shields.io/badge/GreasyFork-Install-red.svg)](https://greasyfork.org/ja/scripts/553267-halloween-atcoder)   [![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue.svg)](https://github.com/mimimi105/halloween_atcoder_extension)
+
+
 ## 🎃 プレビュー
 提出一覧や、提出結果などでかわいく装飾されます！
 <div>
@@ -13,7 +16,7 @@ AtCoderのジャッジ結果（WA、TLE、MLE、RE、CE、AC）をハロウィ�
 ## 🚀 インストール方法
 
 1. [Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja) などのスクリプトマネージャーをインストール
-2. [GreasyFork](https://greasyfork.org/ja/scripts/553267-halloween-atcoder) からインストール
+2. [![Install from GreasyFork](https://img.shields.io/badge/GreasyFork-Install-red.svg)](https://greasyfork.org/ja/scripts/553267-halloween-atcoder) からインストール
 
 ## 🎯 対象サイト
 
